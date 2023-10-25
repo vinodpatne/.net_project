@@ -1,5 +1,5 @@
-POST http://localhost:5080/breakfasts
-header name: application/json
+POST http://localhost:5002/breakfasts
+Content-Type: application/json
 
 {
     "name": "Vegan Sunshine",
