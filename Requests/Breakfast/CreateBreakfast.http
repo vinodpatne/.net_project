@@ -1,4 +1,4 @@
-POST Http://localhost:5080/breakfast
+POST http://localhost:5080/breakfasts
 header name: application/json
 
 {
